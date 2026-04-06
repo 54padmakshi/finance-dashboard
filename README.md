@@ -149,7 +149,7 @@ npm run dev
 
 ##  Screenshots
 
-*Add screenshots of your dashboard here*
+*screenshots of finance-dashboard project are here*
 <img width="1920" height="1036" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/309c889a-de51-4aed-8690-d6236db317b0" />
 
 ---<img width="1650" height="978" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/4ef6da60-4e9d-403d-9f5e-5fc7bda6ea79" />
